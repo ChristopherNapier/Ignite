@@ -1,0 +1,6 @@
+@IgniteDataManager_HostAddress = http://localhost:5046
+
+GET {{IgniteDataManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
